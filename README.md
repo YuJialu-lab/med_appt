@@ -1,1 +1,2 @@
-# med_appt
+Medical Online Booking Website
+This repository contains the code for a Medical Online Booking Website designed for patients to schedule appointments with healthcare providers seamlessly. Key features include user registration, appointment management, and provider profiles, ensuring a smooth user experience. To set up the project locally, please refer to the installation instructions in the documentation. Contributions and suggestions are encouraged to help improve the site further. Thank you for your interest in this project!
